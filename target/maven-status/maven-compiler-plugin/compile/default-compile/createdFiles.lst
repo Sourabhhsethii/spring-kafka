@@ -1,0 +1,8 @@
+com\dxsys\spring\kafka\KafkaProducerConfig.class
+com\dxsys\spring\kafka\KafkaApplication.class
+com\dxsys\spring\kafka\KafkaApplication$MessageProducer.class
+com\dxsys\spring\kafka\KafkaTopicConfig.class
+com\dxsys\spring\kafka\Greeting.class
+com\dxsys\spring\kafka\KafkaConsumerConfig.class
+com\dxsys\spring\kafka\KafkaApplication$MessageListener.class
+com\dxsys\spring\kafka\KafkaApplication$MessageProducer$1.class
